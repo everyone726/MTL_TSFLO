@@ -215,11 +215,6 @@ The complete datasets used in the manuscript are not included.
 
 ---
 
-## License
-
-  
-
-MIT License
 
   
 
