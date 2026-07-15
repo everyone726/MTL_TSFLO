@@ -1,0 +1,7 @@
+numpy
+matplotlib
+rasterio
+openai
+anthropic
+python-dotenv
+httpx
