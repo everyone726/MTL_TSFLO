@@ -168,7 +168,6 @@ pip install -r requirements.txt
 
 ```
 
-  ![[Pasted image 20260715215158.png]]
 
 ---
 
@@ -211,11 +210,6 @@ The MLP_Scores_5Bands and Trans_Scores_5Bands maps are provided as input data fo
 
 The complete datasets used in the manuscript are not included.
 
-  
 
 ---
 
-
-  
-
----
