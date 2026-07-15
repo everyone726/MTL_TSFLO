@@ -81,44 +81,19 @@ The SDS and SES maps are treated as known inputs rather than being generated wit
   
 
 ```
-.
-
-├── data/
-
-│   ├── MLP_Scores_5Bands/
-
-│   ├── Trans_Scores_5Bands/
-
-│   ├── func_shuangliu/
-
-│   ├── yj_shuangliu/
-
-│   ├── st_shuangliu/
-
-│   ├── cz_shuangliu/
-
-│   └── Demo/
-
+├── demo3.ipynb
 │
-
-├── prompts/
-
+├── MLP_Scores_5Bands.tif
+├── Trans_Scores_5Bands.tif
+├── func_shuangliu.tif
+├── yj_shuangliu.tif
+├── st_shuangliu.tif
+├── cz_shuangliu.tif
 │
-
-├── optimization/
-
+├── (generated outputs)
 │
-
-├── outputs/
-
-│
-
-├── requirements.txt
-
-│
-
+├── .env
 └── README.md
-
 ```
 
   
